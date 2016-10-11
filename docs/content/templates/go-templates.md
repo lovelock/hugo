@@ -138,7 +138,7 @@ range.
         {{ $element }}
     {{ end }}
 
-**Example 2: Declaring key and value variable name**
+**Example 3: Declaring key and value variable name**
 
     {{range $index, $element := array}}
         {{ $index }}
